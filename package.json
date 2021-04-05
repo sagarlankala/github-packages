@@ -1,0 +1,22 @@
+{
+  "name": "@sagarlankala/github-packages",
+  "version": "1.0.0",
+  "description": "quick start for github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarlankala/github-packages.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sagar.lankala@microsoft.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarlankala/github-packages/issues"
+  },
+  "homepage": "https://github.com/sagarlankala/github-packages#readme"
+}
